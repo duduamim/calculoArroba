@@ -25,9 +25,6 @@ O peso do bovino é dividido por 2 para calcular o número de arrobas.
 O preço da arroba é multiplicado pela quantidade de arrobas para calcular o valor total.
 O resultado é mostrado na tela: peso em arrobas e valor total.
 
-Requisitos:
-Python 3.x
-Tkinter (já incluso no Python)
+Requisitos: Python 3.x e Tkinter (já incluso no Python)
 
-Licença
-Este projeto é de código aberto, sob a licença MIT.
+Licença: Este projeto é de código aberto, sob a licença MIT.
