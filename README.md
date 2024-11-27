@@ -5,7 +5,7 @@ Este é um programa simples em Python, feito com Tkinter, para calcular o valor 
 Como usar
 
 Clone o repositório:
-git clone https://github.com/seuusuario/calculadora-valor-arroba.git
+git clone https://github.com/duduamim/calculadora-valor-arroba.git
 
 Entre no diretório:
 cd calculadora-valor-arroba
