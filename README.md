@@ -17,7 +17,7 @@ Uma aplicação simples em Python, feita com **Tkinter**, para calcular o valor 
 ## 🚀 Como usar
 
 1. **Clone este repositório**:
-2.   git clone https://github.com/duduamim/calculadora-valor-arroba.git
+2.   git clone https://github.com/duduamim/calculoArroba.git
 3. **Acesse o diretório do projeto**:
 4.   cd calculadora-valor-arroba
 5. **Execute o programa**:
